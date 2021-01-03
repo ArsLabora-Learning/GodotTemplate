@@ -1,0 +1,33 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. 
+
+Versioning follows [calver](https://calver.org/) with the `YYYY-MM-MICRO` scheme.
+
+Inspired by [keepachngelog.com](https://keepachangelog.com/en/1.0.0/).
+
+#### Legend
+
+🟢 Added  
+🔵 Changed  
+⚪ Fixed  
+🟠 Removed  
+🔴 Deprecated  
+
+---
+
+## [Unreleased]
+
+⚪ open sans font filename is now lowercase  
+🟠 Removed squarebit pixel art font
+
+## v2020.12.1
+
+🟢 Added changelog.md  
+⚪ Fixed error when loading a new scene  
+⚪ Fixed HTML5: crash on multithread loading
+[#15](https://github.com/crystal-bit/godot-game-template/issues/15)  
+
+## v2020.12.0
+
+Initial version.
